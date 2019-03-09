@@ -13,3 +13,4 @@ Cargo.lock
 
 /.idea/
 /linux-programming-in-rust.iml
+/rat/target/
